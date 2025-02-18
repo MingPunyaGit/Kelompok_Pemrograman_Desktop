@@ -1,0 +1,18 @@
+D:\backuppp\Whack a Mole!\Whack a Mole!\obj\Debug\net8.0-windows\Whack_a_Mole_.Form1.resources
+D:\backuppp\Whack a Mole!\Whack a Mole!\obj\Debug\net8.0-windows\Whack_a_Mole_.Form2.resources
+D:\backuppp\Whack a Mole!\Whack a Mole!\obj\Debug\net8.0-windows\Whack_a_Mole_.Resources.resources
+D:\backuppp\Whack a Mole!\Whack a Mole!\obj\Debug\net8.0-windows\Whack a Mole!.vbproj.GenerateResource.cache
+D:\backuppp\Whack a Mole!\Whack a Mole!\obj\Debug\net8.0-windows\Whack a Mole!.GeneratedMSBuildEditorConfig.editorconfig
+D:\backuppp\Whack a Mole!\Whack a Mole!\obj\Debug\net8.0-windows\Whack a Mole!.AssemblyInfoInputs.cache
+D:\backuppp\Whack a Mole!\Whack a Mole!\obj\Debug\net8.0-windows\Whack a Mole!.AssemblyInfo.vb
+D:\backuppp\Whack a Mole!\Whack a Mole!\obj\Debug\net8.0-windows\Whack a Mole!.vbproj.CoreCompileInputs.cache
+D:\backuppp\Whack a Mole!\Whack a Mole!\bin\Debug\net8.0-windows\Whack a Mole!.exe
+D:\backuppp\Whack a Mole!\Whack a Mole!\bin\Debug\net8.0-windows\Whack a Mole!.deps.json
+D:\backuppp\Whack a Mole!\Whack a Mole!\bin\Debug\net8.0-windows\Whack a Mole!.runtimeconfig.json
+D:\backuppp\Whack a Mole!\Whack a Mole!\bin\Debug\net8.0-windows\Whack a Mole!.dll
+D:\backuppp\Whack a Mole!\Whack a Mole!\bin\Debug\net8.0-windows\Whack a Mole!.pdb
+D:\backuppp\Whack a Mole!\Whack a Mole!\obj\Debug\net8.0-windows\Whack a Mole!.dll
+D:\backuppp\Whack a Mole!\Whack a Mole!\obj\Debug\net8.0-windows\refint\Whack a Mole!.dll
+D:\backuppp\Whack a Mole!\Whack a Mole!\obj\Debug\net8.0-windows\Whack a Mole!.pdb
+D:\backuppp\Whack a Mole!\Whack a Mole!\obj\Debug\net8.0-windows\Whack a Mole!.genruntimeconfig.cache
+D:\backuppp\Whack a Mole!\Whack a Mole!\obj\Debug\net8.0-windows\ref\Whack a Mole!.dll
