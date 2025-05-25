@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Pemerograman Dekstop Kelompok\\Aplikasi Game Sederhana Sliper.io!\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21990494-2E91-4D51-A7D3-1608D6986BEA}|Game Sliper.io\\Game Sliper.io.vbproj|d:\\pemerograman dekstop kelompok\\aplikasi game sederhana sliper.io!\\game sliper.io\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{21990494-2E91-4D51-A7D3-1608D6986BEA}|Game Sliper.io\\Game Sliper.io.vbproj|solutionrelative:game sliper.io\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21990494-2E91-4D51-A7D3-1608D6986BEA}|Game Sliper.io\\Game Sliper.io.vbproj|d:\\pemerograman dekstop kelompok\\aplikasi game sederhana sliper.io!\\game sliper.io\\form2.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{21990494-2E91-4D51-A7D3-1608D6986BEA}|Game Sliper.io\\Game Sliper.io.vbproj|solutionrelative:game sliper.io\\form2.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21990494-2E91-4D51-A7D3-1608D6986BEA}|Game Sliper.io\\Game Sliper.io.vbproj|D:\\Pemerograman Dekstop Kelompok\\Aplikasi Game Sederhana Sliper.io!\\game sliper.io\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{21990494-2E91-4D51-A7D3-1608D6986BEA}|Game Sliper.io\\Game Sliper.io.vbproj|solutionrelative:game sliper.io\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21990494-2E91-4D51-A7D3-1608D6986BEA}|Game Sliper.io\\Game Sliper.io.vbproj|D:\\Pemerograman Dekstop Kelompok\\Aplikasi Game Sederhana Sliper.io!\\game sliper.io\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{21990494-2E91-4D51-A7D3-1608D6986BEA}|Game Sliper.io\\Game Sliper.io.vbproj|solutionrelative:game sliper.io\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21990494-2E91-4D51-A7D3-1608D6986BEA}|Game Sliper.io\\Game Sliper.io.vbproj|d:\\pemerograman dekstop kelompok\\aplikasi game sederhana sliper.io!\\game sliper.io\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{21990494-2E91-4D51-A7D3-1608D6986BEA}|Game Sliper.io\\Game Sliper.io.vbproj|solutionrelative:game sliper.io\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\Pemerograman Dekstop Kelompok\\Aplikasi Game Sederhana Sliper.io!\\Game Sliper.io\\Form1.vb",
+              "RelativeDocumentMoniker": "Game Sliper.io\\Form1.vb",
+              "ToolTip": "D:\\Pemerograman Dekstop Kelompok\\Aplikasi Game Sederhana Sliper.io!\\Game Sliper.io\\Form1.vb",
+              "RelativeToolTip": "Game Sliper.io\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-25T16:48:30.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.Designer.vb",
+              "DocumentMoniker": "D:\\Pemerograman Dekstop Kelompok\\Aplikasi Game Sederhana Sliper.io!\\Game Sliper.io\\Form2.Designer.vb",
+              "RelativeDocumentMoniker": "Game Sliper.io\\Form2.Designer.vb",
+              "ToolTip": "D:\\Pemerograman Dekstop Kelompok\\Aplikasi Game Sederhana Sliper.io!\\Game Sliper.io\\Form2.Designer.vb",
+              "RelativeToolTip": "Game Sliper.io\\Form2.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-25T16:46:24.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "D:\\Pemerograman Dekstop Kelompok\\Aplikasi Game Sederhana Sliper.io!\\Game Sliper.io\\Form2.vb",
+              "RelativeDocumentMoniker": "Game Sliper.io\\Form2.vb",
+              "ToolTip": "D:\\Pemerograman Dekstop Kelompok\\Aplikasi Game Sederhana Sliper.io!\\Game Sliper.io\\Form2.vb",
+              "RelativeToolTip": "Game Sliper.io\\Form2.vb",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowD8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-25T16:28:02.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "D:\\Pemerograman Dekstop Kelompok\\Aplikasi Game Sederhana Sliper.io!\\Game Sliper.io\\Form2.vb",
+              "RelativeDocumentMoniker": "Game Sliper.io\\Form2.vb",
+              "ToolTip": "D:\\Pemerograman Dekstop Kelompok\\Aplikasi Game Sederhana Sliper.io!\\Game Sliper.io\\Form2.vb [Design]",
+              "RelativeToolTip": "Game Sliper.io\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-25T16:27:58.652Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\Pemerograman Dekstop Kelompok\\Aplikasi Game Sederhana Sliper.io!\\Game Sliper.io\\Form1.vb",
+              "RelativeDocumentMoniker": "Game Sliper.io\\Form1.vb",
+              "ToolTip": "D:\\Pemerograman Dekstop Kelompok\\Aplikasi Game Sederhana Sliper.io!\\Game Sliper.io\\Form1.vb [Design]",
+              "RelativeToolTip": "Game Sliper.io\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-25T16:27:51.839Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

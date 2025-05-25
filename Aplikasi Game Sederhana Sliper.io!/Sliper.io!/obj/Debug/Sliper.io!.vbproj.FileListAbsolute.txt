@@ -1,0 +1,13 @@
+D:\Pemerograman Dekstop Kelompok\Aplikasi Game Sederhana Sliper.io!\Sliper.io!\obj\Debug\Sliper.io!.vbproj.AssemblyReference.cache
+D:\Pemerograman Dekstop Kelompok\Aplikasi Game Sederhana Sliper.io!\Sliper.io!\obj\Debug\Sliper.io_.Resources.resources
+D:\Pemerograman Dekstop Kelompok\Aplikasi Game Sederhana Sliper.io!\Sliper.io!\obj\Debug\Sliper.io!.vbproj.GenerateResource.cache
+D:\Pemerograman Dekstop Kelompok\Aplikasi Game Sederhana Sliper.io!\Sliper.io!\obj\Debug\Sliper.io!.vbproj.CoreCompileInputs.cache
+D:\Pemerograman Dekstop Kelompok\Aplikasi Game Sederhana Sliper.io!\Sliper.io!\bin\Debug\Sliper.io!.exe.config
+D:\Pemerograman Dekstop Kelompok\Aplikasi Game Sederhana Sliper.io!\Sliper.io!\bin\Debug\Sliper.io!.exe
+D:\Pemerograman Dekstop Kelompok\Aplikasi Game Sederhana Sliper.io!\Sliper.io!\bin\Debug\Sliper.io!.pdb
+D:\Pemerograman Dekstop Kelompok\Aplikasi Game Sederhana Sliper.io!\Sliper.io!\bin\Debug\Sliper.io!.xml
+D:\Pemerograman Dekstop Kelompok\Aplikasi Game Sederhana Sliper.io!\Sliper.io!\obj\Debug\Sliper.io!.exe
+D:\Pemerograman Dekstop Kelompok\Aplikasi Game Sederhana Sliper.io!\Sliper.io!\obj\Debug\Sliper.io!.xml
+D:\Pemerograman Dekstop Kelompok\Aplikasi Game Sederhana Sliper.io!\Sliper.io!\obj\Debug\Sliper.io!.pdb
+D:\Pemerograman Dekstop Kelompok\Aplikasi Game Sederhana Sliper.io!\Sliper.io!\obj\Debug\Sliper.io_.Form1.resources
+D:\Pemerograman Dekstop Kelompok\Aplikasi Game Sederhana Sliper.io!\Sliper.io!\obj\Debug\Sliper.io_.Form2.resources
