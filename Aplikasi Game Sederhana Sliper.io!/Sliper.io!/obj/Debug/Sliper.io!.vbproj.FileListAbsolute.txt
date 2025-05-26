@@ -11,3 +11,23 @@ D:\Pemerograman Dekstop Kelompok\Aplikasi Game Sederhana Sliper.io!\Sliper.io!\o
 D:\Pemerograman Dekstop Kelompok\Aplikasi Game Sederhana Sliper.io!\Sliper.io!\obj\Debug\Sliper.io!.pdb
 D:\Pemerograman Dekstop Kelompok\Aplikasi Game Sederhana Sliper.io!\Sliper.io!\obj\Debug\Sliper.io_.Form1.resources
 D:\Pemerograman Dekstop Kelompok\Aplikasi Game Sederhana Sliper.io!\Sliper.io!\obj\Debug\Sliper.io_.Form2.resources
+D:\Pemerograman Dekstop Kelompok\Kelompok_Pemrograman_Desktop\Aplikasi Game Sederhana Sliper.io!\Sliper.io!\bin\Debug\Sliper.io!.exe
+D:\Pemerograman Dekstop Kelompok\Kelompok_Pemrograman_Desktop\Aplikasi Game Sederhana Sliper.io!\Sliper.io!\obj\Debug\Sliper.io!.vbproj.AssemblyReference.cache
+D:\Pemerograman Dekstop Kelompok\Kelompok_Pemrograman_Desktop\Aplikasi Game Sederhana Sliper.io!\Sliper.io!\obj\Debug\Sliper.io_.Form1.resources
+D:\Pemerograman Dekstop Kelompok\Kelompok_Pemrograman_Desktop\Aplikasi Game Sederhana Sliper.io!\Sliper.io!\obj\Debug\Sliper.io_.Form2.resources
+D:\Pemerograman Dekstop Kelompok\Kelompok_Pemrograman_Desktop\Aplikasi Game Sederhana Sliper.io!\Sliper.io!\obj\Debug\Sliper.io_.Resources.resources
+D:\Pemerograman Dekstop Kelompok\Kelompok_Pemrograman_Desktop\Aplikasi Game Sederhana Sliper.io!\Sliper.io!\obj\Debug\Sliper.io!.vbproj.GenerateResource.cache
+D:\Pemerograman Dekstop Kelompok\Kelompok_Pemrograman_Desktop\Aplikasi Game Sederhana Sliper.io!\Sliper.io!\obj\Debug\Sliper.io!.vbproj.CoreCompileInputs.cache
+D:\Aplikasi Game Sederhana Sliper.io!\Sliper.io!\obj\Debug\Sliper.io!.vbproj.AssemblyReference.cache
+D:\Aplikasi Game Sederhana Sliper.io!\Sliper.io!\obj\Debug\Sliper.io_.Form1.resources
+D:\Aplikasi Game Sederhana Sliper.io!\Sliper.io!\obj\Debug\Sliper.io_.Form2.resources
+D:\Aplikasi Game Sederhana Sliper.io!\Sliper.io!\obj\Debug\Sliper.io_.Resources.resources
+D:\Aplikasi Game Sederhana Sliper.io!\Sliper.io!\obj\Debug\Sliper.io!.vbproj.GenerateResource.cache
+D:\Aplikasi Game Sederhana Sliper.io!\Sliper.io!\obj\Debug\Sliper.io!.vbproj.CoreCompileInputs.cache
+D:\Aplikasi Game Sederhana Sliper.io!\Sliper.io!\bin\Debug\Sliper.io!.exe.config
+D:\Aplikasi Game Sederhana Sliper.io!\Sliper.io!\bin\Debug\Sliper.io!.exe
+D:\Aplikasi Game Sederhana Sliper.io!\Sliper.io!\bin\Debug\Sliper.io!.pdb
+D:\Aplikasi Game Sederhana Sliper.io!\Sliper.io!\bin\Debug\Sliper.io!.xml
+D:\Aplikasi Game Sederhana Sliper.io!\Sliper.io!\obj\Debug\Sliper.io!.exe
+D:\Aplikasi Game Sederhana Sliper.io!\Sliper.io!\obj\Debug\Sliper.io!.xml
+D:\Aplikasi Game Sederhana Sliper.io!\Sliper.io!\obj\Debug\Sliper.io!.pdb
