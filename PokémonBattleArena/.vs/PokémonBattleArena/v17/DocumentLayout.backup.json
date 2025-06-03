@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Pok\u00E9mon Battle Arena\\Pok\u00E9monBattleArena\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D110B776-5EDE-4ECB-9272-6A9022D03642}|Pok\u00E9monBattleArena.vbproj|d:\\pok\u00E9mon battle arena\\pok\u00E9monbattlearena\\formselect.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D110B776-5EDE-4ECB-9272-6A9022D03642}|Pok\u00E9monBattleArena.vbproj|solutionrelative:formselect.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D110B776-5EDE-4ECB-9272-6A9022D03642}|Pok\u00E9monBattleArena.vbproj|D:\\Pok\u00E9mon Battle Arena\\Pok\u00E9monBattleArena\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D110B776-5EDE-4ECB-9272-6A9022D03642}|Pok\u00E9monBattleArena.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D110B776-5EDE-4ECB-9272-6A9022D03642}|Pok\u00E9monBattleArena.vbproj|d:\\pok\u00E9mon battle arena\\pok\u00E9monbattlearena\\formbattle.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D110B776-5EDE-4ECB-9272-6A9022D03642}|Pok\u00E9monBattleArena.vbproj|solutionrelative:formbattle.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D110B776-5EDE-4ECB-9272-6A9022D03642}|Pok\u00E9monBattleArena.vbproj|D:\\Pok\u00E9mon Battle Arena\\Pok\u00E9monBattleArena\\formresult.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D110B776-5EDE-4ECB-9272-6A9022D03642}|Pok\u00E9monBattleArena.vbproj|solutionrelative:formresult.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D110B776-5EDE-4ECB-9272-6A9022D03642}|Pok\u00E9monBattleArena.vbproj|D:\\Pok\u00E9mon Battle Arena\\Pok\u00E9monBattleArena\\formresult.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D110B776-5EDE-4ECB-9272-6A9022D03642}|Pok\u00E9monBattleArena.vbproj|solutionrelative:formresult.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D110B776-5EDE-4ECB-9272-6A9022D03642}|Pok\u00E9monBattleArena.vbproj|D:\\Pok\u00E9mon Battle Arena\\Pok\u00E9monBattleArena\\formbattle.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D110B776-5EDE-4ECB-9272-6A9022D03642}|Pok\u00E9monBattleArena.vbproj|solutionrelative:formbattle.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D110B776-5EDE-4ECB-9272-6A9022D03642}|Pok\u00E9monBattleArena.vbproj|D:\\Pok\u00E9mon Battle Arena\\Pok\u00E9monBattleArena\\gamestate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D110B776-5EDE-4ECB-9272-6A9022D03642}|Pok\u00E9monBattleArena.vbproj|solutionrelative:gamestate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D110B776-5EDE-4ECB-9272-6A9022D03642}|Pok\u00E9monBattleArena.vbproj|D:\\Pok\u00E9mon Battle Arena\\Pok\u00E9monBattleArena\\Pokemon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D110B776-5EDE-4ECB-9272-6A9022D03642}|Pok\u00E9monBattleArena.vbproj|solutionrelative:Pokemon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D110B776-5EDE-4ECB-9272-6A9022D03642}|Pok\u00E9monBattleArena.vbproj|D:\\Pok\u00E9mon Battle Arena\\Pok\u00E9monBattleArena\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D110B776-5EDE-4ECB-9272-6A9022D03642}|Pok\u00E9monBattleArena.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D110B776-5EDE-4ECB-9272-6A9022D03642}|Pok\u00E9monBattleArena.vbproj|d:\\pok\u00E9mon battle arena\\pok\u00E9monbattlearena\\formselect.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D110B776-5EDE-4ECB-9272-6A9022D03642}|Pok\u00E9monBattleArena.vbproj|solutionrelative:formselect.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 369,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormSelect.vb [Design]",
+              "DocumentMoniker": "D:\\Pok\u00E9mon Battle Arena\\Pok\u00E9monBattleArena\\FormSelect.vb",
+              "RelativeDocumentMoniker": "FormSelect.vb",
+              "ToolTip": "D:\\Pok\u00E9mon Battle Arena\\Pok\u00E9monBattleArena\\FormSelect.vb [Design]",
+              "RelativeToolTip": "FormSelect.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-31T14:21:24.633Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\Pok\u00E9mon Battle Arena\\Pok\u00E9monBattleArena\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "D:\\Pok\u00E9mon Battle Arena\\Pok\u00E9monBattleArena\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-29T18:06:52.011Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormResult.vb [Design]",
+              "DocumentMoniker": "D:\\Pok\u00E9mon Battle Arena\\Pok\u00E9monBattleArena\\FormResult.vb",
+              "RelativeDocumentMoniker": "FormResult.vb",
+              "ToolTip": "D:\\Pok\u00E9mon Battle Arena\\Pok\u00E9monBattleArena\\FormResult.vb [Design]",
+              "RelativeToolTip": "FormResult.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-02T18:19:05.594Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormBattle.vb [Design]",
+              "DocumentMoniker": "D:\\Pok\u00E9mon Battle Arena\\Pok\u00E9monBattleArena\\FormBattle.vb",
+              "RelativeDocumentMoniker": "FormBattle.vb",
+              "ToolTip": "D:\\Pok\u00E9mon Battle Arena\\Pok\u00E9monBattleArena\\FormBattle.vb [Design]",
+              "RelativeToolTip": "FormBattle.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-02T22:58:13.082Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 31,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormResult.vb",
+              "DocumentMoniker": "D:\\Pok\u00E9mon Battle Arena\\Pok\u00E9monBattleArena\\FormResult.vb",
+              "RelativeDocumentMoniker": "FormResult.vb",
+              "ToolTip": "D:\\Pok\u00E9mon Battle Arena\\Pok\u00E9monBattleArena\\FormResult.vb",
+              "RelativeToolTip": "FormResult.vb",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowDsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-02T18:23:36.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormBattle.vb",
+              "DocumentMoniker": "D:\\Pok\u00E9mon Battle Arena\\Pok\u00E9monBattleArena\\FormBattle.vb",
+              "RelativeDocumentMoniker": "FormBattle.vb",
+              "ToolTip": "D:\\Pok\u00E9mon Battle Arena\\Pok\u00E9monBattleArena\\FormBattle.vb",
+              "RelativeToolTip": "FormBattle.vb",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAwwLgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-02T18:13:39.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\Pok\u00E9mon Battle Arena\\Pok\u00E9monBattleArena\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "D:\\Pok\u00E9mon Battle Arena\\Pok\u00E9monBattleArena\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-29T18:09:46.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameState.vb",
+              "DocumentMoniker": "D:\\Pok\u00E9mon Battle Arena\\Pok\u00E9monBattleArena\\GameState.vb",
+              "RelativeDocumentMoniker": "GameState.vb",
+              "ToolTip": "D:\\Pok\u00E9mon Battle Arena\\Pok\u00E9monBattleArena\\GameState.vb",
+              "RelativeToolTip": "GameState.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-02T17:48:50.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pokemon.vb",
+              "DocumentMoniker": "D:\\Pok\u00E9mon Battle Arena\\Pok\u00E9monBattleArena\\Pokemon.vb",
+              "RelativeDocumentMoniker": "Pokemon.vb",
+              "ToolTip": "D:\\Pok\u00E9mon Battle Arena\\Pok\u00E9monBattleArena\\Pokemon.vb",
+              "RelativeToolTip": "Pokemon.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-29T18:24:33.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormSelect.vb",
+              "DocumentMoniker": "D:\\Pok\u00E9mon Battle Arena\\Pok\u00E9monBattleArena\\FormSelect.vb",
+              "RelativeDocumentMoniker": "FormSelect.vb",
+              "ToolTip": "D:\\Pok\u00E9mon Battle Arena\\Pok\u00E9monBattleArena\\FormSelect.vb",
+              "RelativeToolTip": "FormSelect.vb",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwEwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-31T14:21:40.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
